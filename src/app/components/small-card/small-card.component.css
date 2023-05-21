@@ -1,0 +1,30 @@
+.container__small-card{
+    width: 50em;
+    margin-bottom: 1em;
+}
+
+.container__smal-card-content {
+    display: flex;
+    gap: 1.2em;
+    margin-bottom: 1em;
+}
+
+.small-card__picture > img{
+    width: 10em;
+    height: 100%;
+    min-height: 100%;
+    min-width: 10em;
+}
+
+.small-card__title > a{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.small-card__title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

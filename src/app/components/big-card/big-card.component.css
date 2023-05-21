@@ -1,0 +1,28 @@
+.container__big-card{
+    width: 20em;
+    height: 30em;
+    margin: 0 1em;
+
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.big-card__picture > img {
+    width: 100%;
+}
+
+.big-card__title > a {
+    margin-top: 0.8em;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+.big-card__description{
+    margin-top: 0.8em;
+}
+
+.big-card__description > p > a{
+    color: gray;
+    text-decoration: none;
+}

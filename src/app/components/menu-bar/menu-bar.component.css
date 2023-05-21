@@ -1,0 +1,9 @@
+.container__menu-bar > nav > ul{
+    display: flex;
+    gap: 5em;
+    list-style: none; 
+}
+
+.container__menu-bar > nav > ul > li > a{
+    text-decoration: none;   
+}
