@@ -3,10 +3,3 @@
     display: flex;
     justify-content: center;
 }
-
-header{
-    display: flex;
-    justify-content: center;
-    margin-left: 2em;
-    margin-top: 0.5em;
-}
